@@ -1,0 +1,25 @@
+body{font-family:verdanna, Ariel,  sans-serif;background-color: #00050:}
+#wrapper { background-color: #b3c7e6;
+           color: #00056;
+            width: 80%;
+          margin: auto ;
+}
+nav {float: left;
+            width: 150px;
+}
+main {margin-left: 155px;
+                background-color:#FFEA41;
+                  color:#263EFF
+}
+header{ background-color: #869dc7;
+         color: ;
+         font-size: 150%;
+         padding: 10px 10px 10px 10px;
+ background-image: url(                  );  
+ background-repeats: no-repeat;
+    height: 130px;
+}
+ul {list-style-type: square;}
+
+header {background-color: #FA444B;
+    }
